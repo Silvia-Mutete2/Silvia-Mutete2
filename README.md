@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at **Upwork**
 
-- 🌱 I’m currently learning **Odoo Integration**
+- 🌱 I’m currently learning **TypeScript**
 
 - 🤝 I’m looking for help with **React, Ruby on Rails**
 
