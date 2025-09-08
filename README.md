@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Silvia Mutete</h1>
-<h3 align="center">A passionate learner and tech enthusiast</h3>
+<h3 align="center">💻 Software Developer | 🌱 Lifelong Learner | 🚀 Tech Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/34/fb/b9/34fbb9aa7bfeb8df98412067d64c2029.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Silvia-Mutete2&label=Profile%20views&color=0e75b6&style=flat" alt="Silvia-Mutete2"/> </p>
-
-
-## 🌐 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/silvia-mutete-06b397203/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Silvia-Mutete2&label=Profile%20views&color=0e75b6&style=flat" alt="Silvia-Mutete2"/> 
 </p>
 
----
+<br/>
 
 ## 🚀 Languages and Tools
 <p align="left">
