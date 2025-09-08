@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Silvia Mutete</h1>
-<h3 align="center">💻 Software Developer | 🌱 Lifelong Learner | 🚀 Tech Enthusiast</h3>
+<h3 align="center">💻 Software Developer | 🔗 Blockchain Developer | 📊 Data Analyst | 🌱 Lifelong Learner</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/34/fb/b9/34fbb9aa7bfeb8df98412067d64c2029.gif"/>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Silvia-Mutete2&label=Profile%20views&color=0e75b6&style=flat" alt="Silvia-Mutete2"/> 
-</p>
 
 <br/>
 
