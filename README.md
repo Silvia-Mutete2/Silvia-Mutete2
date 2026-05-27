@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Silvia Mutete</h1>
-<h3 align="center">💻 Software Developer | 🔗 Blockchain Developer | 📊 Data Analyst | 🌱 Lifelong Learner</h3>
+<h3 align="center">💻 Software Developer | 📊 Data Analyst </h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/34/fb/b9/34fbb9aa7bfeb8df98412067d64c2029.gif"/>
 
